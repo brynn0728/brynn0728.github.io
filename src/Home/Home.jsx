@@ -57,7 +57,7 @@ const Home = () => {
                                 Hello, I'm
                             </h2>
                             <h1 className="name animate-on-scroll">
-                                Brynn Shin
+                                Saean Shin
                             </h1>
                             <h2 className="title animate-on-scroll">
                                 A DS Junior at <span>UW-Madison</span>
